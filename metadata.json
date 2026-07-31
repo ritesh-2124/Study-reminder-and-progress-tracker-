@@ -1,0 +1,6 @@
+{
+  "name": "Study Reminder & Progress Tracker",
+  "description": "Daily study material email reminders at 8 AM, priority categorization, AI study digests, and progress tracking dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
